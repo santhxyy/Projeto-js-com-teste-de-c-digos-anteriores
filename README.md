@@ -23,8 +23,8 @@ O projeto está organizado em pastas que representam a evolução do aprendizado
 - [ ] Semana 4: Planejada
 
 ## 🛠️ Tecnologias Utilizadas
-* Linguagem: [Insira aqui a linguagem, ex: Python, C, JavaScript]
-* Ambiente de desenvolvimento: [Ex: VS Code, Dev C++]
+* Linguagem:  JavaScript,html,css
+* Ambiente de desenvolvimento: VS Code
 
 ## 🧑‍🏫 Orientação
 Projeto desenvolvido como parte das atividades acadêmicas do **IFMG**, acompanhado pelo corpo docente da instituição.
