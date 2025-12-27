@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Project semana 1</title>
+</head>
+<body>
+    <input id="usuario_nome" placeholder="Qual seu nome?"><br>
+    <input id="endereco_cep" placeholder="Digite seu CEP"><br>
+    <input id="endereco_rua" placeholder="Digite sua rua"><br>
+    <input id="endereco_bairro" placeholder="Digite seu Bairro"><br>
+    <input id="endereco_cidade" placeholder="Digite sua Cidade"><br>
+    <input id="enedereco_estado" placeholder="Digite seu Estado"><br>
+
+    <input type="file" onchange="showFile(this)">
+    <button onclick="salvar()">Salvar</button>
+    <script>
+        function showFile(input){
+            let file = input.files[0];
+
+            let fr = new FileReader();
+            fr.onload = function(dadosArquivos){
+                let dadod = JSON.parse(dadosArquivos.target.result);
+                document.getElementById("usuario_nome").value= dados.nome;
+                document.getElementById("endereco_cep").value= dados.cep;
+                document.getElementById("endereco_rua").value= dados.rua;
+                document.getElementById("endereco_bairro").value= dados.bairro;
+                document.getElementById("endereco_cidade").value= dados.cidade;
+                document.getElementById("enedereco_estado").value= dados.estado;
+            }
+            fr.readAsText(file);
+        }
+    </script>
+</body>
+</html>
