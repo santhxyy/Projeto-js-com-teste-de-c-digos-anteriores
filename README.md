@@ -1,30 +1,30 @@
-# Projeto de Lógica e Funções - IFMG 🎓
+# Logic and Functions Project - IFMG 🎓
 
-Este repositório contém o progresso e as atividades desenvolvidas durante o curso no **IFMG (Instituto Federal de Minas Gerais)**, sob orientação do professor. O foco principal deste módulo é o estudo e a implementação de **Funções**.
+This repository contains the progress and activities developed during the course at **IFMG (Federal Institute of Minas Gerais)**, under the professor's guidance. The main focus of this module is the study and implementation of **Functions**.
 
-## 📌 Sobre o Projeto
-O objetivo deste projeto é consolidar os conceitos de modularização, escopo de variáveis e lógica de programação através de exercícios práticos divididos por semanas.
+## 📌 About the Project
+The goal of this project is to consolidate concepts of modularization, variable scope, and programming logic through practical exercises divided by weeks.
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
-O projeto está organizado em pastas que representam a evolução do aprendizado:
+The project is organized into folders representing the learning progression:
 
-* **`semana-1/`**: Introdução à lógica e primeiros conceitos.
-* **`semana-2/`**: Aprofundamento em estruturas de repetição e condicionais aplicadas.
-* **`semana-3/`** (⚠️ Em andamento): Desenvolvimento de funções, parâmetros e retornos.
-* **`semana-4/`** (📅 Planejado): Integração final e projetos práticos avançados.
-* **`sandbox-testes/`**: Pasta dedicada a rascunhos, testes de códigos anteriores e experimentos rápidos.
+* **`semana-1/`**: Introduction to logic and first concepts.
+* **`semana-2/`**: In-depth study of repetition structures and applied conditionals.
+* **`semana-3/`** (⚠️ In Progress): Development of functions, parameters, and returns.
+* **`semana-4/`** (📅 Planned): Final integration and advanced practical projects.
+* **`sandbox-testes/`**: Dedicated folder for drafts, tests of previous code, and quick experiments.
 
-## 🚀 Status do Projeto
+## 🚀 Project Status
 
-- [x] Semana 1: Concluída
-- [x] Semana 2: Concluída
-- [/] Semana 3: Em desenvolvimento
-- [ ] Semana 4: Planejada
+- [x] Week 1: Completed
+- [x] Week 2: Completed
+- [/] Week 3: In development
+- [ ] Week 4: Planned
 
-## 🛠️ Tecnologias Utilizadas
-* Linguagem:  JavaScript,html,css
-* Ambiente de desenvolvimento: VS Code
+## 🛠️ Tech Stack
+* Languages: JavaScript, HTML, CSS
+* Development Environment: VS Code
 
-## 🧑‍🏫 Orientação
-Projeto desenvolvido como parte das atividades acadêmicas do **IFMG**, acompanhado pelo corpo docente da instituição.
+## 🧑‍🏫 Guidance
+Project developed as part of the academic activities at **IFMG**, supervised by the institution's faculty.
