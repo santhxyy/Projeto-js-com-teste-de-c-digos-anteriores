@@ -43,8 +43,13 @@
                 "cidade":document.getElementById("usuario_cidade").value,
                 "estado":document.getElementById("usuario_estado").value
             }
-            let meuArquivo = new Blob()
+            let meuArquivo = new Blob([JSON.stringify(dadosSalvar)],{type:"text/plain"});
+            templink.setAttribute("href",URL.createObjectURL(meuArquivo));
+            templink.setAttribute("download","dados_usuario.json");
+            templink.click();
+            
         }
     </script>
+    //Projeto semana 03,finalizada!
 </body>
 </html>
