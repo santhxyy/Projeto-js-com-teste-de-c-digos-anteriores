@@ -12,14 +12,13 @@ The project is organized into folders representing the learning progression:
 1.  **Week 1**: Fundamentals and initial function syntax.
 2.  **Week 2**: Functions with parameters, returns, and click events.
 3.  **Week 3**: ✅ Completed - Intermediate practices and dynamic data manipulation.
-4.  **Week 4 (📅 Planned)**: Final project development consolidating all concepts.
-
+   
 ## 🚀 Project Status
 
 - [x] Week 1: Completed
 - [x] Week 2: Completed
 - [x] Week 3: In development
-- [ ] Week 4: Planned
+
 
 ## 🛠️ Tech Stack
 * Languages: JavaScript, HTML, CSS
