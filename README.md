@@ -9,18 +9,16 @@ The goal of this project is to consolidate concepts of modularization, variable 
 
 The project is organized into folders representing the learning progression:
 
-* **`semana-1/`**: Introduction to logic and first concepts.
-* **`semana-2/`**: In-depth study of repetition structures and applied conditionals.
-* **`semana-3/`** (⚠️ In Progress): Development of functions, parameters, and returns.
-* **`semana-4/`** (📅 Planned): Final integration and advanced practical projects.
-* **`sandbox-testes/`**: Dedicated folder for drafts, tests of previous code, and quick experiments.
-
+1.  **Week 1**: Fundamentals and initial function syntax.
+2.  **Week 2**: Functions with parameters, returns, and click events.
+3.  **Week 3**: ✅ Completed - Intermediate practices and dynamic data manipulation.
+   
 ## 🚀 Project Status
 
 - [x] Week 1: Completed
 - [x] Week 2: Completed
-- [/] Week 3: In development
-- [ ] Week 4: Planned
+- [x] Week 3: In development
+
 
 ## 🛠️ Tech Stack
 * Languages: JavaScript, HTML, CSS
